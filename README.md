@@ -63,11 +63,12 @@
     <div class="container">
       <h2>Contact Us</h2>
       <p>Email: <a href="mailto:info@roamakashmir.com">info@roamakashmir.com</a></p>
-      <p>Phone: +91 98765 43210</p>
+      <p>Phone: +91 9906484734
+      
+      </p>
       <p>Location: Srinagar, Jammu & Kashmir, India</p>
     </div>
   </section>
-
   <footer>
     <div class="container">
       <p>&copy; 2025 Roama Kashmir Travel Company. All rights reserved.</p>
